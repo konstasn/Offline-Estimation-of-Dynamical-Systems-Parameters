@@ -3,7 +3,7 @@
 
 **Author:** Nikolaos Konstas  
 **Institution:** Department of Electrical & Computer Engineering, Aristotle University of Thessaloniki  
-**Date:** June 2023  
+**Date:** April 2022 
 
 ## Project Overview
 
